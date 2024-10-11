@@ -1,0 +1,7 @@
+- tailwind/
+    - assets/
+        - styles.css   (make sure this file exists)
+    - node_modules/
+    - tailwind.config.js
+    - package.json
+    - index.html
